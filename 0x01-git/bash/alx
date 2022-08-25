@@ -1,1 +1,2 @@
-!/bin/bashn echo ALX
+!/bin/bash
+cho "ALX School is so cool!"
